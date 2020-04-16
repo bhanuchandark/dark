@@ -8,5 +8,9 @@ Chicken Fry
 Beans
 Pizza
 
+
 20% Off On Non-veg Items(branch)
+
+30% Off on Veg Items(On master)
+
 Thank You :)
